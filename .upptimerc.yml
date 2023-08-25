@@ -40,10 +40,18 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/doctorfree/upptime/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/doctorfree/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is my websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: Me
+      href: https://ronrecord.com
+    - title: Asciiville
+      href: https://asciiville.dev
+    - title: Lazyman
+      href: https://lazyman.dev
+    - title: Profile
+      href: https://github.com/$OWNER
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
