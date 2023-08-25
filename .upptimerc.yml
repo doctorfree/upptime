@@ -28,7 +28,7 @@ sites:
   - name: blog.ronrecord.com
     url: https://blog.ronrecord.com
   - name: themes.ronrecord.com
-    url: https://themes.ronrecord.com
+    url: https://doctorfree.github.io/google-chrome-themes
 
 assignees: # Users to assign downtime issues (optional)
   - doctorfree
@@ -41,8 +41,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/doctorfree/upptime/master/assets/upptime-icon.svg
   name: Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is my websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Open source website uptime monitor"
+  introMessage: Websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime)
   navbar:
     - title: Repository
       href: https://github.com/$OWNER/$REPO
