@@ -44,12 +44,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Me
-      href: https://ronrecord.com
-    - title: Asciiville
-      href: https://asciiville.dev
-    - title: Lazyman
-      href: https://lazyman.dev
     - title: Profile
       href: https://github.com/$OWNER
     - title: GitHub
