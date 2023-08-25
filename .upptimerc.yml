@@ -34,7 +34,8 @@ assignees: # Users to assign downtime issues (optional)
   - doctorfree
 
 status-website:
-  theme: dark
+  # theme: dark
+  themeUrl: https://uptime.ronrecord.com/custom.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: lazyman.dev
@@ -44,10 +45,10 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is my websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Repo
-      href: https://github.com/$OWNER/$REPO target=_blank rel=noopener
+    - title: Repository
+      href: https://github.com/$OWNER/$REPO
     - title: Profile
-      href: https://github.com/$OWNER target=_blank rel=noopener
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
