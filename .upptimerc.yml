@@ -3,12 +3,12 @@ owner: doctorfree # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
+  - name: asciiville.dev
+    url: https://asciiville.dev
   - name: lazyman.dev
     url: https://lazyman.dev
   - name: skunkware.dev
     url: https://skunkware.dev
-  - name: asciiville.dev
-    url: https://asciiville.dev
   - name: musicplayerplus.dev
     url: https://musicplayerplus.dev
   - name: mirrorcommand.dev
@@ -27,12 +27,14 @@ sites:
     url: https://fractals.ronrecord.com
   - name: blog.ronrecord.com
     url: https://blog.ronrecord.com
+  - name: themes.ronrecord.com
+    url: https://themes.ronrecord.com
 
 assignees: # Users to assign downtime issues (optional)
   - doctorfree
 
 status-website:
-  theme: night
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: lazyman.dev
@@ -43,9 +45,9 @@ status-website:
   introMessage: This is my websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Repo
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO target=_blank rel=noopener
     - title: Profile
-      href: https://github.com/$OWNER
+      href: https://github.com/$OWNER target=_blank rel=noopener
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
