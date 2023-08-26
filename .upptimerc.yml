@@ -21,14 +21,8 @@ sites:
     url: https://ronrecord.com
   - name: willowrecord.com
     url: https://willowrecord.com
-  - name: archive.ronrecord.com
-    url: https://archive.ronrecord.com
-  - name: fractals.ronrecord.com
-    url: https://fractals.ronrecord.com
-  - name: blog.ronrecord.com
-    url: https://blog.ronrecord.com
-  - name: themes.ronrecord.com
-    url: https://doctorfree.github.io/google-chrome-themes
+  - name: subtime.ronrecord.com
+    url: https://subtime.ronrecord.com
     icon: https://raw.githubusercontent.com/doctorfree/upptime/master/assets/dummy.ico
 
 assignees: # Users to assign downtime issues (optional)
