@@ -148,18 +148,20 @@
     "url": "https://willowrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/willowrecord.com.ico",
     "slug": "willowrecord-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 904,
-    "timeWeek": 904,
-    "timeMonth": 904,
-    "timeYear": 904,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2251,
+    "timeDay": 2251,
+    "timeWeek": 2251,
+    "timeMonth": 2251,
+    "timeYear": 2251,
+    "dailyMinutesDown": {
+      "2023-08-26": 0
+    }
   },
   {
     "name": "archive.ronrecord.com",
