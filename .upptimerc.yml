@@ -29,7 +29,7 @@ sites:
     url: https://blog.ronrecord.com
   - name: themes.ronrecord.com
     url: https://doctorfree.github.io/google-chrome-themes
-    icon: https://doctorfree.github.io/upptime/assets/chrome.svg
+    icon: https://doctorfree.github.io/upptime/assets/dummy.ico
 
 assignees: # Users to assign downtime issues (optional)
   - doctorfree
