@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/doctorfree/upptime/master/assets/upptime-icon.svg
   name: Status
   introTitle: "Open source website uptime monitor"
-  introMessage: Websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime)
+  introMessage: Websites status page using **real-time** data from my [GitHub repository](https://github.com/doctorfree/upptime). See [subtime.ronrecord.com](https://subtime.ronrecord.com) for subdomain status.
   navbar:
     - title: Repository
       href: https://github.com/$OWNER/$REPO
