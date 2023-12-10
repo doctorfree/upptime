@@ -22,19 +22,19 @@
     "url": "https://lazyman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/lazyman.dev.ico",
     "slug": "lazyman-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 1228,
-    "timeWeek": 384,
-    "timeMonth": 180,
-    "timeYear": 150,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 149,
+    "timeDay": 844,
+    "timeWeek": 350,
+    "timeMonth": 176,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-12-10": 0
+      "2023-12-10": 10
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-12-10": 1163,
+      "2023-12-10": 1173,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
