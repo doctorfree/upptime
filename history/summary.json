@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 1396,
+      "2025-04-08": 61,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -469,8 +470,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -498,9 +498,9 @@
     "slug": "ronrecord-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1142,
     "timeDay": 3919,
@@ -508,7 +508,6 @@
     "timeMonth": 1785,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2025-04-07": 8,
       "2024-11-15": 19,
       "2024-10-30": 39,
       "2024-06-15": 26
@@ -524,14 +523,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.83%",
+    "uptimeYear": "7.81%",
     "time": 831,
     "timeDay": 0,
     "timeWeek": 895,
     "timeMonth": 1003,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2025-04-07": 1396,
+      "2025-04-08": 62,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -877,9 +877,9 @@
     "slug": "subtime-ronrecord-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
     "timeDay": 613,
@@ -887,7 +887,6 @@
     "timeMonth": 509,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-04-07": 7,
       "2024-11-15": 19
     }
   }
